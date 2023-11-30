@@ -31,4 +31,14 @@
     .why-us .col {
         width: 100%;
     }
+
+    .steps {
+        margin: 0;
+    }
+
+    .why-us {
+        margin-bottom: 0;
+        padding-top: 3rem;
+        background-color: black;
+    }
 }
